@@ -1,3 +1,3 @@
-module github.com/wesleymonte/errors
+module github.com/wesleymonte/goerrors
 
 go 1.13
